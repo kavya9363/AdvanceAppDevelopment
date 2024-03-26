@@ -1,0 +1,41 @@
+/* CourseAdmissionForm.css */
+
+.course-admission-form {
+    background-color: #fff; /* White background */
+    padding: 20px; /* Add padding for spacing */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Box shadow effect */
+    width: 450px;
+    margin-left: 30%;
+    margin-top: -40%;
+  }
+  
+  .course-admission-form input,
+  .course-admission-form select,
+  .course-admission-form button {
+    /* Style form inputs */
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .course-admission-form button {
+    /* Style submit button */
+    background-color: #008000; /* Green background */
+    color: #fff; /* White text */
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .course-admission-form button:hover {
+    /* Hover effect for submit button */
+    background-color: #006400; /* Darker green */
+  }
+  
+  /* Additional styles for form inputs can be added here */
+  

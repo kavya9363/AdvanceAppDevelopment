@@ -1,0 +1,9 @@
+/* h-screen flex-grow-1 overflow-y-lg-auto */
+.container-app-fluid {
+    width: 100%;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-right: -20%;
+    margin-left: auto;
+    margin-top: -60%;
+}
